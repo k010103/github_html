@@ -5,7 +5,7 @@
 </head>
 <body>
   <script type="text/javascript">
-    docueent.write("hello world"); // docueent -> document 로 오류가 난 상황
+    docueent.write("hello world");
   </script>
   <!-- 1. 크롬기준 : ctrl + shift + j , 를 이용하면 오류를 찾을 수 있음 -->
   <!-- 2. 혹은  apache2 > long > error 파일에서 확인해볼 수 있음 -->
